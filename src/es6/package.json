@@ -1,0 +1,21 @@
+{
+    "name": "Curso de EMASCRIPT",
+    "description": "index.js",
+    "authors": "Platzi",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "dependencies": {},
+
+    "scripts": {
+        "test": "echo\"error : no test specified \" && exit 1"
+    },
+
+    "keywords": [
+        "javascript",
+        "ecmascript"
+        
+    ],
+    "license": "MIT",
+    "type": "module"
+
+}
